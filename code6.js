@@ -1,0 +1,575 @@
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code = {};
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.localVariables = [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.idToCallbackMap = new Map();
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects3= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects1= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects2= [];
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects3= [];
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList0 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("acceuil"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1);
+gdjs.copyArray(runtimeScene.getObjects("map"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1);
+gdjs.copyArray(runtimeScene.getObjects("soon_soon_"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[i].activateBehavior("PlatformerObject", false);
+}
+}
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1[i].hide();
+}
+}
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1[i].hide();
+}
+}
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1[i].hide();
+}
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList1 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+/* Unknown object - skipped. */if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[i].getBehavior("Animation").setAnimationName("portable");
+}
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList2 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Up");
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkup");
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Down");
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdown");
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Left");
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkgauche");
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Right");
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = !(gdjs.evtTools.input.anyKeyPressed(runtimeScene));
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("wait");
+}
+}
+}
+
+}
+
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList1(runtimeScene);
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites1Objects1Objects = Hashtable.newFrom({"limites1": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects1});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList3 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites1Objects1Objects, runtimeScene, true, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
+}
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList4 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1);
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[0] : null), true, "player", 0);
+}
+{gdjs.evtTools.camera.clampCamera(runtimeScene, -(1300), -(4623), 2653, 903, "player", 0);
+}
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[0] : null), true, "la map 3", 0);
+}
+{gdjs.evtTools.camera.clampCamera(runtimeScene, -(1300), -(4623), 2653, 903, "la map 3", 0);
+}
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[0] : null), true, "limite invicible", 0);
+}
+{gdjs.evtTools.camera.clampCamera(runtimeScene, -(1300), -(4623), 2653, 903, "limite invicible", 0);
+}
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[0] : null), true, "typo", 0);
+}
+{gdjs.evtTools.camera.clampCamera(runtimeScene, -(1300), -(4623), 2653, 903, "typo", 0);
+}
+{gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[0] : null), true, "map de progression", 0);
+}
+{gdjs.evtTools.camera.clampCamera(runtimeScene, -(1300), -(4623), 2653, 903, "map de progression", 0);
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites1Objects2Objects = Hashtable.newFrom({"limites1": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects2});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDpjette0Objects1Objects = Hashtable.newFrom({"pjette0": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites2Objects1Objects = Hashtable.newFrom({"limites2": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites2Objects1Objects = Hashtable.newFrom({"limites2": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList5 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDpjette0Objects2Objects, gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites1Objects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("limites2"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDpjette0Objects1Objects, gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites2Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1 */
+/* Reuse gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1 */
+gdjs.copyArray(runtimeScene.getObjects("soon_soon_"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1[i].separateFromObjectsList(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDlimites2Objects1Objects, false);
+}
+}
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1[i].hide(false);
+}
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList6 = function(runtimeScene) {
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDicon_95959595mapObjects1Objects = Hashtable.newFrom({"icon_map": gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects1});
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.asyncCallback37329404 = function (runtimeScene, asyncObjectsList) {
+asyncObjectsList.restoreLocalVariablesContainers(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.localVariables);
+gdjs.copyArray(asyncObjectsList.getObjects("map"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2);
+
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2[i].hide();
+}
+}
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.localVariables.length = 0;
+}
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.idToCallbackMap.set(37329404, gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.asyncCallback37329404);
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList7 = function(runtimeScene) {
+
+{
+
+
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+asyncObjectsList.backupLocalVariablesContainers(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.localVariables);
+for (const obj of gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1) asyncObjectsList.addObject("map", obj);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.asyncCallback37329404(runtimeScene, asyncObjectsList)), 37329404, asyncObjectsList);
+}
+}
+
+}
+
+
+};gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList8 = function(runtimeScene) {
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList0(runtimeScene);
+}
+
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList2(runtimeScene);
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList3(runtimeScene);
+}
+
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList4(runtimeScene);
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+
+{ //Subevents
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList5(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+{
+
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList6(runtimeScene);
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("icon_map"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.mapOfGDgdjs_9546Salles_959532du_959532rez_959545de_959545chauss_9595233e_959532_959545_959532H_9595244tel_959532Marcel_959532Dassault_959532V2Code_9546GDicon_95959595mapObjects1Objects, runtimeScene, true, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("map"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1);
+{for(var i = 0, len = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1.length ;i < len;++i) {
+    gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1[i].hide(false);
+}
+}
+
+{ //Subevents
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList7(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+};
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.func = function(runtimeScene) {
+runtimeScene.getOnceTriggers().startNewFrame();
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects3.length = 0;
+
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.eventsList8(runtimeScene);
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDrdcObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmapObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDplan_9595rdcObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDsoon_9595soon_9595Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDacceuilObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDmap_95953Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpjette0Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites1Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDlimites2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveauObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDporteObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseurObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDascenseur2Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDedouardObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDbravoObjects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDvisiteur1Objects3.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects1.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects2.length = 0;
+gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code.GDicon_9595mapObjects3.length = 0;
+
+
+return;
+
+}
+
+gdjs['Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code'] = gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32Dassault_32V2Code;
