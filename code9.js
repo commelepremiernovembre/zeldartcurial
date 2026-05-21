@@ -372,7 +372,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects2Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(37678684);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(32925556);
 }
 }
 if (isConditionTrue_0) {
@@ -434,7 +434,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects1Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(37680972);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(32927828);
 }
 }
 if (isConditionTrue_0) {

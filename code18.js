@@ -71,7 +71,7 @@ for (var i = 0, k = 0, l = gdjs.niveau_32ivryCode.GDpassage_9595niveau_95952Obje
 gdjs.niveau_32ivryCode.GDpassage_9595niveau_95952Objects2.length = k;
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(39140276);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(34326148);
 }
 }
 }
