@@ -1,63 +1,257 @@
-gdjs.etage_322_32boiserieCode = {};
-gdjs.etage_322_32boiserieCode.localVariables = [];
-gdjs.etage_322_32boiserieCode.idToCallbackMap = new Map();
-gdjs.etage_322_32boiserieCode.GDlustreObjects1= [];
-gdjs.etage_322_32boiserieCode.GDlustreObjects2= [];
-gdjs.etage_322_32boiserieCode.GDlustreObjects3= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects1= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects2= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects3= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects1= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects2= [];
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects3= [];
-gdjs.etage_322_32boiserieCode.GDparquetObjects1= [];
-gdjs.etage_322_32boiserieCode.GDparquetObjects2= [];
-gdjs.etage_322_32boiserieCode.GDparquetObjects3= [];
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects1= [];
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects2= [];
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects3= [];
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects1= [];
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects2= [];
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects3= [];
-gdjs.etage_322_32boiserieCode.GDpjette0Objects1= [];
-gdjs.etage_322_32boiserieCode.GDpjette0Objects2= [];
-gdjs.etage_322_32boiserieCode.GDpjette0Objects3= [];
-gdjs.etage_322_32boiserieCode.GDlimites1Objects1= [];
-gdjs.etage_322_32boiserieCode.GDlimites1Objects2= [];
-gdjs.etage_322_32boiserieCode.GDlimites1Objects3= [];
-gdjs.etage_322_32boiserieCode.GDlimites2Objects1= [];
-gdjs.etage_322_32boiserieCode.GDlimites2Objects2= [];
-gdjs.etage_322_32boiserieCode.GDlimites2Objects3= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects2= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects3= [];
-gdjs.etage_322_32boiserieCode.GDporteObjects1= [];
-gdjs.etage_322_32boiserieCode.GDporteObjects2= [];
-gdjs.etage_322_32boiserieCode.GDporteObjects3= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects1= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects2= [];
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects3= [];
-gdjs.etage_322_32boiserieCode.GDascenseurObjects1= [];
-gdjs.etage_322_32boiserieCode.GDascenseurObjects2= [];
-gdjs.etage_322_32boiserieCode.GDascenseurObjects3= [];
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects1= [];
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects2= [];
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects3= [];
-gdjs.etage_322_32boiserieCode.GDedouardObjects1= [];
-gdjs.etage_322_32boiserieCode.GDedouardObjects2= [];
-gdjs.etage_322_32boiserieCode.GDedouardObjects3= [];
-gdjs.etage_322_32boiserieCode.GDbravoObjects1= [];
-gdjs.etage_322_32boiserieCode.GDbravoObjects2= [];
-gdjs.etage_322_32boiserieCode.GDbravoObjects3= [];
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects1= [];
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects2= [];
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects3= [];
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects1= [];
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects2= [];
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode = {};
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.localVariables = [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.idToCallbackMap = new Map();
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects4= [];
 
 
-gdjs.etage_322_32boiserieCode.eventsList0 = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -66,17 +260,29 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects1);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects1[i].activateBehavior("PlatformerObject", false);
+gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1);
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1[i].deleteFromScene(runtimeScene);
 }
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1[i].hide();
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1[i].hide();
+}
+}
+{runtimeScene.getScene().getVariables().getFromIndex(5).setNumber(0);
 }
 }
 
 }
 
 
-};gdjs.etage_322_32boiserieCode.eventsList1 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList1 = function(runtimeScene) {
 
 {
 
@@ -85,9 +291,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Up");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects2);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkup");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkup");
 }
 }
 }
@@ -102,9 +308,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Down");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects2);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdown");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkdown");
 }
 }
 }
@@ -119,9 +325,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects2);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkgauche");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkgauche");
 }
 }
 }
@@ -136,9 +342,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Right");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects2);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkdroite");
 }
 }
 }
@@ -153,9 +359,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = !(gdjs.evtTools.input.anyKeyPressed(runtimeScene));
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects1);
-{for(var i = 0, len = gdjs.etage_322_32boiserieCode.GDpjette0Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32boiserieCode.GDpjette0Objects1[i].getBehavior("Animation").setAnimationName("wait");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("wait2");
 }
 }
 }
@@ -163,40 +369,601 @@ gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode
 }
 
 
-};gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects1Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32boiserieCode.GDpjette0Objects1});
-gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveauObjects1Objects = Hashtable.newFrom({"passage_niveau": gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1});
-gdjs.etage_322_32boiserieCode.eventsList2 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects3Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDvisiteur1Objects3Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDheamsObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfauteuilObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcanapObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaiseObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDhallogeneObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpetitetableObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpoufObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDjean_95959595prouv_959595233Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDgiacomettiObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaise2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDetag_959595232reObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampeObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpaire_95959595de_95959595chaise_95959595Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbureauObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDescalierObjects3Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3, "commode2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3, "heams": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3, "canap": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3, "chaise": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3, "pouf": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3, "etagère": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3, "lampe": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3, "bureau": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3, "escalier": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList2 = function(runtimeScene) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("passage_niveau"), gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1);
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects1);
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3);
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects1Objects, gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveauObjects1Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects3Objects, gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "niveau 2 expo white étage_old", false);
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
 }
 }
 
 }
 
-
-};gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32boiserieCode.GDpjette0Objects2});
-gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveau_959595952Objects2Objects = Hashtable.newFrom({"passage_niveau_2": gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects2});
-gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects1Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32boiserieCode.GDpjette0Objects1});
-gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveauObjects1Objects = Hashtable.newFrom({"passage_niveau": gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1});
-gdjs.etage_322_32boiserieCode.eventsList3 = function(runtimeScene) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("passage_niveau_2"), gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects2);
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects2);
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveau_959595952Objects2Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDvisiteur1Objects3Objects, gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3);
+gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3);
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3);
+gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3);
+gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3);
+gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3);
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3);
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3);
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3);
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3);
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3);
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3);
+gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3);
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3);
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3);
+gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDheamsObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfauteuilObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcanapObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaiseObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDhallogeneObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpetitetableObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpoufObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDjean_95959595prouv_959595233Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDgiacomettiObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaise2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDetag_959595232reObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampeObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpaire_95959595de_95959595chaise_95959595Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbureauObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDescalierObjects3Objects, gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlimites1Objects3Objects, false);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2);
+gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2);
+gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2);
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2);
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2);
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2);
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDescalierObjects2Objects, gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDedouardObjects2Objects, false);
+}
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList3 = function(runtimeScene) {
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList1(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList2(runtimeScene);
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfermer_95959595le_95959595bonueObjects1Objects = Hashtable.newFrom({"fermer_le_bonue": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects1});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList4 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("fermer_le_bonue"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDfermer_95959595le_95959595bonueObjects1Objects, runtimeScene, true, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
+}
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList5 = function(runtimeScene) {
+
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList6 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "chrono_rangement_expo");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2.length = k;
+if (isConditionTrue_0) {
+{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "chrono_rangement_expo") >= 3;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(5).getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(6).getAsNumber());
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2[i].hide(false);
+}
+}
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(5).getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(6).getAsNumber());
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1[i].hide(false);
+}
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbravoObjects1Objects = Hashtable.newFrom({"bravo": gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1});
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList7 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1[i].isVisible() ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1[k] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532ranger2_959532boiserieCode_9546GDbravoObjects1Objects, runtimeScene, true, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
+}
+}
 if (isConditionTrue_0) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 1 l'enchère", false);
 }
@@ -205,53 +972,19 @@ if (isConditionTrue_0) {
 }
 
 
-{
-
-gdjs.copyArray(runtimeScene.getObjects("passage_niveau"), gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1);
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32boiserieCode.GDpjette0Objects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpjette0Objects1Objects, gdjs.etage_322_32boiserieCode.mapOfGDgdjs_9546etage_9595322_959532boiserieCode_9546GDpassage_95959595niveauObjects1Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
-}
-if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "étage 3 le staff", false);
-}
-}
-
-}
-
-
-};gdjs.etage_322_32boiserieCode.eventsList4 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList8 = function(runtimeScene) {
 
 {
 
 
-gdjs.etage_322_32boiserieCode.eventsList0(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.etage_322_32boiserieCode.eventsList1(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32boiserieCode.eventsList2(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32boiserieCode.eventsList3(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList3(runtimeScene);
 }
 
 
@@ -262,128 +995,544 @@ let isConditionTrue_0 = false;
 {
 }
 
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList4(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList5(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList6(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList7(runtimeScene);
 }
 
 
 };
 
-gdjs.etage_322_32boiserieCode.func = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.func = function(runtimeScene) {
 runtimeScene.getOnceTriggers().startNewFrame();
 
-gdjs.etage_322_32boiserieCode.GDlustreObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlustreObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlustreObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects4.length = 0;
 
-gdjs.etage_322_32boiserieCode.eventsList4(runtimeScene);
-gdjs.etage_322_32boiserieCode.GDlustreObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlustreObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlustreObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595boisObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDmur_9595grisObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDparquetObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDchemin_95233Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDsalle_9595des_9595boiseriesObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32boiserieCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.eventsList8(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcommode2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfauteuilObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDheamsObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharles_9595HeamsObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriandObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcanapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaiseObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDhallogeneObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampe2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpetitetableObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpoufObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDjean_9595prouv_95233Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDgiacomettiObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfenetreObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmur_9595blancObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetag_95232reObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDescalierObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlampeObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpaire_9595de_9595chaise_9595Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbureauObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporte_9595documentObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDchaise_9595metalObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_95233Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595andrearbusObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jean_9595royereObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDCharlotte_9595perriand3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595giacomettiObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDetiquette_9595jeanprouv_952332Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDsabrinaObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDmapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDspawn4Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDdroiteObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible3Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible4Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDcible5Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595bonusObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDfermer_9595le_9595bonueObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDstock_9595meubleObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDboiserieObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpjette0Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDlimites2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveauObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDporteObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDpassage_9595niveau_95952Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseurObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDascenseur2Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDedouardObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDbravoObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDvisiteur1Objects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode.GDicon_9595mapObjects4.length = 0;
 
 
 return;
 
 }
 
-gdjs['etage_322_32boiserieCode'] = gdjs.etage_322_32boiserieCode;
+gdjs['etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode'] = gdjs.etage_322_32expoblanc_32bonus_32ranger2_32boiserieCode;

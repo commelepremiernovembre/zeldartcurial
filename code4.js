@@ -331,7 +331,7 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.exterieur_32coursCode.asyncCallback32437452 = function (runtimeScene, asyncObjectsList) {
+};gdjs.exterieur_32coursCode.asyncCallback33157116 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("calder"), gdjs.exterieur_32coursCode.GDcalderObjects6);
 
@@ -341,7 +341,7 @@ gdjs.copyArray(asyncObjectsList.getObjects("calder"), gdjs.exterieur_32coursCode
 }
 gdjs.exterieur_32coursCode.localVariables.length = 0;
 }
-gdjs.exterieur_32coursCode.idToCallbackMap.set(32437452, gdjs.exterieur_32coursCode.asyncCallback32437452);
+gdjs.exterieur_32coursCode.idToCallbackMap.set(33157116, gdjs.exterieur_32coursCode.asyncCallback33157116);
 gdjs.exterieur_32coursCode.eventsList6 = function(runtimeScene, asyncObjectsList) {
 
 {
@@ -353,14 +353,14 @@ const parentAsyncObjectsList = asyncObjectsList;
 const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
 asyncObjectsList.backupLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 /* Don't save calder as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(10), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback32437452(runtimeScene, asyncObjectsList)), 32437452, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(10), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback33157116(runtimeScene, asyncObjectsList)), 33157116, asyncObjectsList);
 }
 }
 
 }
 
 
-};gdjs.exterieur_32coursCode.asyncCallback32436972 = function (runtimeScene, asyncObjectsList) {
+};gdjs.exterieur_32coursCode.asyncCallback33156636 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("clovis"), gdjs.exterieur_32coursCode.GDclovisObjects5);
 
@@ -373,7 +373,7 @@ gdjs.copyArray(asyncObjectsList.getObjects("clovis"), gdjs.exterieur_32coursCode
 gdjs.exterieur_32coursCode.eventsList6(runtimeScene, asyncObjectsList);} //End of subevents
 gdjs.exterieur_32coursCode.localVariables.length = 0;
 }
-gdjs.exterieur_32coursCode.idToCallbackMap.set(32436972, gdjs.exterieur_32coursCode.asyncCallback32436972);
+gdjs.exterieur_32coursCode.idToCallbackMap.set(33156636, gdjs.exterieur_32coursCode.asyncCallback33156636);
 gdjs.exterieur_32coursCode.eventsList7 = function(runtimeScene, asyncObjectsList) {
 
 {
@@ -386,14 +386,14 @@ const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
 asyncObjectsList.backupLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 /* Don't save calder as it will be provided by the parent asyncObjectsList. */
 for (const obj of gdjs.exterieur_32coursCode.GDclovisObjects4) asyncObjectsList.addObject("clovis", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(7), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback32436972(runtimeScene, asyncObjectsList)), 32436972, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(7), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback33156636(runtimeScene, asyncObjectsList)), 33156636, asyncObjectsList);
 }
 }
 
 }
 
 
-};gdjs.exterieur_32coursCode.asyncCallback32436900 = function (runtimeScene, asyncObjectsList) {
+};gdjs.exterieur_32coursCode.asyncCallback33156564 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("clovis"), gdjs.exterieur_32coursCode.GDclovisObjects4);
 
@@ -406,7 +406,7 @@ gdjs.copyArray(asyncObjectsList.getObjects("clovis"), gdjs.exterieur_32coursCode
 gdjs.exterieur_32coursCode.eventsList7(runtimeScene, asyncObjectsList);} //End of subevents
 gdjs.exterieur_32coursCode.localVariables.length = 0;
 }
-gdjs.exterieur_32coursCode.idToCallbackMap.set(32436900, gdjs.exterieur_32coursCode.asyncCallback32436900);
+gdjs.exterieur_32coursCode.idToCallbackMap.set(33156564, gdjs.exterieur_32coursCode.asyncCallback33156564);
 gdjs.exterieur_32coursCode.eventsList8 = function(runtimeScene, asyncObjectsList) {
 
 {
@@ -419,14 +419,14 @@ const asyncObjectsList = gdjs.LongLivedObjectsList.from(parentAsyncObjectsList);
 asyncObjectsList.backupLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 for (const obj of gdjs.exterieur_32coursCode.GDcalderObjects3) asyncObjectsList.addObject("calder", obj);
 /* Don't save clovis as it will be provided by the parent asyncObjectsList. */
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(5), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback32436900(runtimeScene, asyncObjectsList)), 32436900, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(5), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback33156564(runtimeScene, asyncObjectsList)), 33156564, asyncObjectsList);
 }
 }
 
 }
 
 
-};gdjs.exterieur_32coursCode.asyncCallback32436668 = function (runtimeScene, asyncObjectsList) {
+};gdjs.exterieur_32coursCode.asyncCallback33156332 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 gdjs.copyArray(runtimeScene.getObjects("calder"), gdjs.exterieur_32coursCode.GDcalderObjects3);
 {for(var i = 0, len = gdjs.exterieur_32coursCode.GDcalderObjects3.length ;i < len;++i) {
@@ -438,7 +438,7 @@ gdjs.copyArray(runtimeScene.getObjects("calder"), gdjs.exterieur_32coursCode.GDc
 gdjs.exterieur_32coursCode.eventsList8(runtimeScene, asyncObjectsList);} //End of subevents
 gdjs.exterieur_32coursCode.localVariables.length = 0;
 }
-gdjs.exterieur_32coursCode.idToCallbackMap.set(32436668, gdjs.exterieur_32coursCode.asyncCallback32436668);
+gdjs.exterieur_32coursCode.idToCallbackMap.set(33156332, gdjs.exterieur_32coursCode.asyncCallback33156332);
 gdjs.exterieur_32coursCode.eventsList9 = function(runtimeScene) {
 
 {
@@ -449,7 +449,7 @@ gdjs.exterieur_32coursCode.eventsList9 = function(runtimeScene) {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.exterieur_32coursCode.localVariables);
 for (const obj of gdjs.exterieur_32coursCode.GDclovisObjects2) asyncObjectsList.addObject("clovis", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback32436668(runtimeScene, asyncObjectsList)), 32436668, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(3), (runtimeScene) => (gdjs.exterieur_32coursCode.asyncCallback33156332(runtimeScene, asyncObjectsList)), 33156332, asyncObjectsList);
 }
 }
 

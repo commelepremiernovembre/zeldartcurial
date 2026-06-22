@@ -1,177 +1,192 @@
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode = {};
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.localVariables = [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.idToCallbackMap = new Map();
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode = {};
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables = [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap = new Map();
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects3= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects1= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects2= [];
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects3= [];
 
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects1Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList0 = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList0 = function(runtimeScene) {
+
+{
+
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].activateBehavior("Pathfinding", true);
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].activateBehavior("PlatformerObject", false);
+}
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList1 = function(runtimeScene) {
 
 {
 
@@ -180,9 +195,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Up");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkup");
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkup");
 }
 }
 }
@@ -197,9 +212,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Down");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkdouwn");
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdown");
 }
 }
 }
@@ -214,9 +229,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkgauche");
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkgauche");
 }
 }
 }
@@ -231,9 +246,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Right");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
 }
 }
 }
@@ -248,9 +263,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = !(gdjs.evtTools.input.anyKeyPressed(runtimeScene));
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("wait");
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1[i].getBehavior("Animation").setAnimationName("wait");
 }
 }
 }
@@ -258,87 +273,7 @@ gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32
 }
 
 
-{
-
-gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2);
-gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2);
-gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2);
-gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
-gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2);
-gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2);
-gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2);
-gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2);
-gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2);
-gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2);
-gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2);
-gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2);
-gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects2Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects, false);
-}
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1);
-gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects1Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects, false);
-}
-}
-}
-
-}
-
-
-};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects2Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects1Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects1Objects = Hashtable.newFrom({"commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList1 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList2 = function(runtimeScene) {
 
 {
 
@@ -347,14 +282,43 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1[i].getBehavior("Animation").setAnimationName("wait");
 }
 }
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].addForceTowardObject((gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length !== 0 ? gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2[0] : null), 30, 1);
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlimites1Objects2Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlimites1Objects2Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595magicObjects2Objects = Hashtable.newFrom({"passage_magic": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595magicObjects2Objects = Hashtable.newFrom({"passage_magic": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDsabrinaObjects2Objects = Hashtable.newFrom({"sabrina": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList3 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlimites1Objects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlimites1Objects2Objects, false);
 }
 }
 }
@@ -364,29 +328,17 @@ gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("passage_magic"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects2Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595magicObjects2Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(32925556);
-}
-}
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].resetTimer("chronormètre_objet_suivant");
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].clearForces();
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("wait");
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595magicObjects2Objects, false);
 }
 }
 }
@@ -396,27 +348,53 @@ if (isConditionTrue_0) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2);
+gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2);
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2);
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2);
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2);
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getTimerElapsedTimeInSecondsOrNaN("chronormètre_objet_suivant") >= 1 ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[k] = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = k;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2);
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].addForceTowardObject((gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length !== 0 ? gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2[0] : null), 1, 1);
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("walkdouwn");
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects, false);
 }
 }
 }
@@ -426,416 +404,1221 @@ gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_3
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1);
-gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1);
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2);
+gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2);
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2);
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2);
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2);
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2);
+gdjs.copyArray(runtimeScene.getObjects("sabrina"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects1Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects1Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDsabrinaObjects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(32927828);
-}
-}
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].resetTimer("chronormètre_objet_suivant");
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].clearForces();
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].getBehavior("Animation").setAnimationName("wait");
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDescalierObjects2Objects, false);
 }
 }
 }
 
 }
 
-
-};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpassage_95959595magicObjects1Objects = Hashtable.newFrom({"passage_magic": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1});
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList2 = function(runtimeScene) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("passage_magic"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1);
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2Objects = Hashtable.newFrom({"heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharles_95959595HeamsObjects2Objects = Hashtable.newFrom({"Charles_Heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2Objects = Hashtable.newFrom({"heams": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharlotte_95959595perriand3Objects2Objects = Hashtable.newFrom({"Charlotte_perriand3": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2Objects = Hashtable.newFrom({"commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharlotte_95959595perriand2Objects2Objects = Hashtable.newFrom({"Charlotte_perriand2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2Objects = Hashtable.newFrom({"commode2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2Objects = Hashtable.newFrom({"jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jeanprouv_959595233Objects2Objects = Hashtable.newFrom({"etiquette_jeanprouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2Objects = Hashtable.newFrom({"jean_prouvé": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2Objects = Hashtable.newFrom({"bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595andrearbusObjects2Objects = Hashtable.newFrom({"etiquette_andrearbus": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2Objects = Hashtable.newFrom({"bureau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2Objects = Hashtable.newFrom({"lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jean_95959595royereObjects2Objects = Hashtable.newFrom({"etiquette_jean_royere": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2Objects = Hashtable.newFrom({"lampe": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2Objects = Hashtable.newFrom({"giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595giacomettiObjects2Objects = Hashtable.newFrom({"etiquette_giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2Objects = Hashtable.newFrom({"giacometti": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2Objects = Hashtable.newFrom({"paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jeanprouv_9595952332Objects2Objects = Hashtable.newFrom({"etiquette_jeanprouvé2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects1Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects1Objects = Hashtable.newFrom({"paire_de_chaise_": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects1});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList4 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpassage_95959595magicObjects1Objects, runtimeScene, true, false);
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33633660);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharles_95959595HeamsObjects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Charles_Heams"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33635564);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharlotte_95959595perriand3Objects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Charlotte_perriand3"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33636812);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDCharlotte_95959595perriand2Objects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Charlotte_perriand2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33638540);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jeanprouv_959595233Objects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2[0].getPointY("")) - 30, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("etiquette_jeanprouvé"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33640108);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595andrearbusObjects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("etiquette_andrearbus"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33641852);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jean_95959595royereObjects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("etiquette_jean_royere"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33643620);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595giacomettiObjects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2[0].getPointY("")) - 10, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("etiquette_giacometti"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2Objects, 70, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33644612);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2 */
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDetiquette_95959595jeanprouv_9595952332Objects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2[0].getPointY("")) - 50, "décor");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects1);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects1Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects1Objects, 70, true);
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("etiquette_jeanprouvé2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveauObjects2Objects = Hashtable.newFrom({"passage_niveau": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveau_959595952Objects2Objects = Hashtable.newFrom({"passage_niveau_2": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects1Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveau_95959595bonusObjects1Objects = Hashtable.newFrom({"passage_niveau_bonus": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects1});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList5 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("passage_niveau"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveauObjects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "exterieur cours", false);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("passage_niveau_2"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveau_959595952Objects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc bonus ranger2 boiserie", false);
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("passage_niveau_bonus"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects1);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects1Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpassage_95959595niveau_95959595bonusObjects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 }
 if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc bonus ranger", false);
 }
 }
 
 }
 
 
-};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList3 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDascenseurObjects2Objects = Hashtable.newFrom({"ascenseur": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876 = function (runtimeScene, asyncObjectsList) {
+asyncObjectsList.restoreLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 boiserie", false);
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables.length = 0;
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(33651876, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList6 = function(runtimeScene) {
 
 {
 
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList0(runtimeScene);
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+asyncObjectsList.backupLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876(runtimeScene, asyncObjectsList)), 33651876, asyncObjectsList);
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList7 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("ascenseur"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDascenseurObjects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2[i].getBehavior("Animation").setAnimationName("ascenseur ouvert");
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("ascenseur"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2[i].getBehavior("Animation").getAnimationName() == "ascenseur ouvert" ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length = k;
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2 */
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[i].deleteFromScene(runtimeScene);
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2[i].getBehavior("Animation").setAnimationName("ascenseur test2");
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("ascenseur"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1[i].getBehavior("Animation").getAnimationName() == "ascenseur test2" ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1.length = k;
+if (isConditionTrue_0) {
+
+{ //Subevents
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList6(runtimeScene);} //End of subevents
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbonjour_95959595je_95959595m_95959595appelle_95959595EdouardObjects3Objects = Hashtable.newFrom({"bonjour_je_m_appelle_Edouard": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548 = function (runtimeScene, asyncObjectsList) {
+asyncObjectsList.restoreLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
+gdjs.copyArray(asyncObjectsList.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3);
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbonjour_95959595je_95959595m_95959595appelle_95959595EdouardObjects3Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3[0].getPointY("")) - 70, "text");
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables.length = 0;
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(33655548, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList8 = function(runtimeScene) {
+
+{
+
+
+{
+{
+const asyncObjectsList = new gdjs.LongLivedObjectsList();
+asyncObjectsList.backupLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
+for (const obj of gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2) asyncObjectsList.addObject("edouard", obj);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548(runtimeScene, asyncObjectsList)), 33655548, asyncObjectsList);
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDBonjour_95959595Edouard_95959595_95959595tout_95959595va_95959595bien_95959595merci_95959595_95959595_95959595L_95959595exposition_95959595est_95959595tr_959595232s_95959595belleObjects2Objects = Hashtable.newFrom({"Bonjour_Edouard__tout_va_bien_merci___L_exposition_est_très_belle": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2});
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList9 = function(runtimeScene) {
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDedouardObjects2Objects, 70, false);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("salut");
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDedouardObjects2Objects, 70, true);
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("wait");
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i].getBehavior("Animation").getAnimationName() == "salut" ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = k;
+if (isConditionTrue_0) {
+
+{ //Subevents
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList8(runtimeScene);} //End of subevents
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i].getBehavior("Animation").getAnimationName() == "salut" ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "Space");
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33656508);
+}
+}
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+
+{gdjs.evtTools.object.createObjectOnScene(runtimeScene, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDBonjour_95959595Edouard_95959595_95959595tout_95959595va_95959595bien_95959595merci_95959595_95959595_95959595L_95959595exposition_95959595est_95959595tr_959595232s_95959595belleObjects2Objects, (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[0].getPointX("")), (( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length === 0 ) ? 0 :gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2[0].getPointY("")) + 100, "text");
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i].getBehavior("Animation").getAnimationName() == "salut" ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = k;
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+isConditionTrue_0 = !(gdjs.evtTools.input.isKeyPressed(runtimeScene, "Space"));
+}
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("Bonjour_Edouard__tout_va_bien_merci___L_exposition_est_très_belle"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length;i<l;++i) {
+    if ( !(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1[i].getBehavior("Animation").getAnimationName() == "salut") ) {
+        isConditionTrue_0 = true;
+        gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1[k] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1[i];
+        ++k;
+    }
+}
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length = k;
+if (isConditionTrue_0) {
+gdjs.copyArray(runtimeScene.getObjects("bonjour_je_m_appelle_Edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1[i].deleteFromScene(runtimeScene);
+}
+}
+}
+
+}
+
+
+};gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList10 = function(runtimeScene) {
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList1(runtimeScene);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList1(runtimeScene);
 }
 
 
 {
 
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList2(runtimeScene);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList2(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList3(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList4(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList5(runtimeScene);
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList7(runtimeScene);
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+{
+
+
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList9(runtimeScene);
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
+}
+
+
+{
+
+
+let isConditionTrue_0 = false;
+{
+}
+
 }
 
 
 };
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.func = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.func = function(runtimeScene) {
 runtimeScene.getOnceTriggers().startNewFrame();
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects3.length = 0;
 
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList3(runtimeScene);
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList10(runtimeScene);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595magicObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDballonObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDicon_9595mapObjects3.length = 0;
 
 
 return;
 
 }
 
-gdjs['etage_322_32expoblanc_32bonus_32visiteursCode'] = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode;
+gdjs['etage_322_32expoblanc_95cachee_45sensualitarismeCode'] = gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode;

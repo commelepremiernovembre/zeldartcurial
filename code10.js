@@ -1,284 +1,177 @@
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode = {};
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.localVariables = [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.idToCallbackMap = new Map();
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects4= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects1= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects2= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects3= [];
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects4= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode = {};
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.localVariables = [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.idToCallbackMap = new Map();
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2= [];
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3= [];
 
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList0 = function(runtimeScene) {
-
-{
-
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
-if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1);
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1);
-gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1[i].deleteFromScene(runtimeScene);
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1[i].hide();
-}
-}
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1[i].hide();
-}
-}
-{runtimeScene.getScene().getVariables().getFromIndex(5).setNumber(0);
-}
-}
-
-}
-
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList1 = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects1Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList0 = function(runtimeScene) {
 
 {
 
@@ -287,9 +180,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Up");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkup");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkup");
 }
 }
 }
@@ -304,9 +197,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Down");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkdown");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkdouwn");
 }
 }
 }
@@ -321,9 +214,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Left");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkgauche");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkgauche");
 }
 }
 }
@@ -338,9 +231,9 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.wasKeyJustPressed(runtimeScene, "Right");
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3[i].getBehavior("Animation").setAnimationName("walkdroite");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("walkdroite");
 }
 }
 }
@@ -355,79 +248,65 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = !(gdjs.evtTools.input.anyKeyPressed(runtimeScene));
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("wait2");
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].getBehavior("Animation").setAnimationName("wait");
 }
 }
 }
 
 }
 
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects3Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDvisiteur1Objects3Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDheamsObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfauteuilObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcanapObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaiseObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDhallogeneObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpetitetableObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpoufObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDjean_95959595prouv_959595233Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDgiacomettiObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaise2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDetag_959595232reObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampeObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpaire_95959595de_95959595chaise_95959595Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbureauObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDescalierObjects3Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3, "commode2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3, "heams": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3, "canap": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3, "chaise": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3, "pouf": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3, "etagère": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3, "lampe": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3, "bureau": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3, "escalier": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects = Hashtable.newFrom({"limites1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDescalierObjects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2, "commode2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2, "heams": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2, "fauteuil": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2, "canap": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2, "chaise": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2, "hallogene": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2, "lampe1": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2, "lampe2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2, "petitetable": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2, "pouf": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2, "jean_prouvé": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2, "giacometti": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2, "chaise2": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2, "etagère": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2, "lampe": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2, "paire_de_chaise_": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2, "bureau": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2, "escalier": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList2 = function(runtimeScene) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3);
-gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2);
+gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2);
+gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2);
+gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2);
+gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2);
+gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2);
+gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2);
+gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2);
+gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2);
+gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2);
+gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2);
+gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects3Objects, gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects2Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDescalierObjects2Objects, false);
 }
 }
 }
@@ -437,17 +316,17 @@ if (isConditionTrue_0) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3);
-gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3);
+gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1);
+gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDvisiteur1Objects3Objects, gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDedouardObjects1Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects, false, runtimeScene, false);
 if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1 */
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDlimites1Objects1Objects, false);
 }
 }
 }
@@ -455,277 +334,11 @@ if (isConditionTrue_0) {
 }
 
 
-{
-
-gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3);
-gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3);
-gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3);
-gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3);
-gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3);
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3);
-gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3);
-gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3);
-gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3);
-gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3);
-gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3);
-gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3);
-gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3);
-gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3);
-gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3);
-gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3);
-gdjs.copyArray(runtimeScene.getObjects("limites1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3);
-gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3);
-gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3);
-gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDheamsObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfauteuilObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcanapObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaiseObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDhallogeneObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe1Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpetitetableObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpoufObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDjean_95959595prouv_959595233Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDgiacomettiObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaise2Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDetag_959595232reObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampeObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpaire_95959595de_95959595chaise_95959595Objects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbureauObjects3ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDescalierObjects3Objects, gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlimites1Objects3Objects, false);
-}
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("bureau"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2);
-gdjs.copyArray(runtimeScene.getObjects("canap"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2);
-gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2);
-gdjs.copyArray(runtimeScene.getObjects("chaise2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("edouard"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2);
-gdjs.copyArray(runtimeScene.getObjects("escalier"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2);
-gdjs.copyArray(runtimeScene.getObjects("etagère"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2);
-gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2);
-gdjs.copyArray(runtimeScene.getObjects("giacometti"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2);
-gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2);
-gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2);
-gdjs.copyArray(runtimeScene.getObjects("jean_prouvé"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe1"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2);
-gdjs.copyArray(runtimeScene.getObjects("lampe2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2);
-gdjs.copyArray(runtimeScene.getObjects("paire_de_chaise_"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2);
-gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2);
-gdjs.copyArray(runtimeScene.getObjects("pouf"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcommode2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDheamsObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfauteuilObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDcanapObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaiseObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDhallogeneObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe1Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampe2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpetitetableObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpoufObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDjean_95959595prouv_959595233Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDgiacomettiObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDchaise2Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDetag_959595232reObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDlampeObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbureauObjects2ObjectsGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDescalierObjects2Objects, gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false, runtimeScene, false);
-if (isConditionTrue_0) {
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2 */
-/* Reuse gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2 */
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2[i].separateFromObjectsList(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDedouardObjects2Objects, false);
-}
-}
-}
-
-}
-
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList3 = function(runtimeScene) {
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList1(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList2(runtimeScene);
-}
-
-
-{
-
-
-let isConditionTrue_0 = false;
-{
-}
-
-}
-
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfermer_95959595le_95959595bonueObjects1Objects = Hashtable.newFrom({"fermer_le_bonue": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects1});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList4 = function(runtimeScene) {
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("fermer_le_bonue"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects1);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDfermer_95959595le_95959595bonueObjects1Objects, runtimeScene, true, false);
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
-}
-if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
-}
-}
-
-}
-
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList5 = function(runtimeScene) {
-
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList6 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects2Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2Objects = Hashtable.newFrom({"commode1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects1Objects = Hashtable.newFrom({"visiteur1": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects1Objects = Hashtable.newFrom({"commode2": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList1 = function(runtimeScene) {
 
 {
 
@@ -734,7 +347,15 @@ let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.runtimeScene.sceneJustBegins(runtimeScene);
 if (isConditionTrue_0) {
-{gdjs.evtTools.runtimeScene.resetTimer(runtimeScene, "chrono_rangement_expo");
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("walkdroite");
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].addForceTowardObject((gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length !== 0 ? gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2[0] : null), 30, 1);
+}
 }
 }
 
@@ -743,173 +364,59 @@ if (isConditionTrue_0) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2);
+gdjs.copyArray(runtimeScene.getObjects("commode1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2);
+gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects2Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode1Objects2Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33828196);
+}
+}
+if (isConditionTrue_0) {
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].resetTimer("chronormètre_objet_suivant");
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].clearForces();
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("wait");
+}
+}
+}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2);
+
+let isConditionTrue_0 = false;
+isConditionTrue_0 = false;
+for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length;i<l;++i) {
+    if ( gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getTimerElapsedTimeInSecondsOrNaN("chronormètre_objet_suivant") >= 1 ) {
         isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2[i];
+        gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[k] = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i];
         ++k;
     }
 }
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2.length = k;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = k;
 if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2);
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].addForceTowardObject((gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length !== 0 ? gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2[0] : null), 1, 1);
 }
 }
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("lampe"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("heams"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("chaise"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("fauteuil"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("hallogene"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-gdjs.copyArray(runtimeScene.getObjects("petitetable"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2);
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2[i].getBehavior("Déplaçable").wasJustDropped() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2.length = k;
-if (isConditionTrue_0) {
-{runtimeScene.getScene().getVariables().getFromIndex(5).add(1);
-}
-}
-
-}
-
-
-{
-
-
-let isConditionTrue_0 = false;
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.runtimeScene.getTimerElapsedTimeInSecondsOrNaN(runtimeScene, "chrono_rangement_expo") >= 3;
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(5).getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(6).getAsNumber());
-}
-}
-if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2[i].hide(false);
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2[i].getBehavior("Animation").setAnimationName("walkdouwn");
 }
 }
 }
@@ -919,15 +426,29 @@ gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bo
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("commode2"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("visiteur1"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-{isConditionTrue_0 = (runtimeScene.getScene().getVariables().getFromIndex(5).getAsNumber() >= runtimeScene.getScene().getVariables().getFromIndex(6).getAsNumber());
+isConditionTrue_0 = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDvisiteur1Objects1Objects, gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDcommode2Objects1Objects, false, runtimeScene, false);
+if (isConditionTrue_0) {
+isConditionTrue_0 = false;
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33830468);
+}
 }
 if (isConditionTrue_0) {
-gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1);
-{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length ;i < len;++i) {
-    gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1[i].hide(false);
+/* Reuse gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1 */
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].resetTimer("chronormètre_objet_suivant");
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].clearForces();
+}
+}
+{for(var i = 0, len = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length ;i < len;++i) {
+    gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1[i].getBehavior("Animation").setAnimationName("wait");
 }
 }
 }
@@ -935,30 +456,19 @@ gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bo
 }
 
 
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbravoObjects1Objects = Hashtable.newFrom({"bravo": gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1});
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList7 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpassage_95959595magicObjects1Objects = Hashtable.newFrom({"passage_magic": gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1});
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList2 = function(runtimeScene) {
 
 {
 
-gdjs.copyArray(runtimeScene.getObjects("bravo"), gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1);
+gdjs.copyArray(runtimeScene.getObjects("passage_magic"), gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1);
 
 let isConditionTrue_0 = false;
 isConditionTrue_0 = false;
-for (var i = 0, k = 0, l = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length;i<l;++i) {
-    if ( gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1[i].isVisible() ) {
-        isConditionTrue_0 = true;
-        gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1[k] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1[i];
-        ++k;
-    }
-}
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length = k;
-if (isConditionTrue_0) {
-isConditionTrue_0 = false;
-isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32rangerCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532rangerCode_9546GDbravoObjects1Objects, runtimeScene, true, false);
+isConditionTrue_0 = gdjs.evtTools.input.cursorOnObject(gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959532bonus_959532visiteursCode_9546GDpassage_95959595magicObjects1Objects, runtimeScene, true, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
-}
 }
 if (isConditionTrue_0) {
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 expoblanc", false);
@@ -968,559 +478,364 @@ if (isConditionTrue_0) {
 }
 
 
-};gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList8 = function(runtimeScene) {
+};gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList3 = function(runtimeScene) {
 
 {
 
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList0(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList0(runtimeScene);
 }
 
 
 {
 
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList3(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList1(runtimeScene);
 }
 
 
 {
 
 
-let isConditionTrue_0 = false;
-{
-}
-
-}
-
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList4(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList5(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList6(runtimeScene);
-}
-
-
-{
-
-
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList7(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList2(runtimeScene);
 }
 
 
 };
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.func = function(runtimeScene) {
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.func = function(runtimeScene) {
 runtimeScene.getOnceTriggers().startNewFrame();
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3.length = 0;
 
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.eventsList8(runtimeScene);
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcommode2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfauteuilObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDheamsObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharles_9595HeamsObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriandObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcanapObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaiseObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDhallogeneObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampe2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpetitetableObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpoufObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDjean_9595prouv_95233Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDgiacomettiObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfenetreObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmur_9595blancObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetag_95232reObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDescalierObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlampeObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpaire_9595de_9595chaise_9595Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbureauObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporte_9595documentObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDchaise_9595metalObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_95233Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595andrearbusObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jean_9595royereObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDCharlotte_9595perriand3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595giacomettiObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDetiquette_9595jeanprouv_952332Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDsabrinaObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDmapObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDspawn4Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDdroiteObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible3Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible4Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDcible5Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595bonusObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDfermer_9595le_9595bonueObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDstock_9595meubleObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpjette0Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDlimites2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveauObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDporteObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDpassage_9595niveau_95952Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseurObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDascenseur2Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDedouardObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDbravoObjects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDvisiteur1Objects4.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects1.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects2.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects3.length = 0;
-gdjs.etage_322_32expoblanc_32bonus_32rangerCode.GDicon_9595mapObjects4.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.eventsList3(runtimeScene);
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcommode2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfauteuilObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDheamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharles_9595HeamsObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriandObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDcanapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaiseObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDhallogeneObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampe2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpetitetableObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpoufObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDjean_9595prouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDgiacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDfenetreObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmur_9595blancObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDBonjour_9595Edouard_9595_9595tout_9595va_9595bien_9595merci_9595_9595_9595L_9595exposition_9595est_9595tr_95232s_9595belleObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetag_95232reObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDescalierObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlampeObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpaire_9595de_9595chaise_9595Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbureauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporte_9595documentObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDchaise_9595metalObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_95233Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595andrearbusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jean_9595royereObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDCharlotte_9595perriand3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595giacomettiObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDetiquette_9595jeanprouv_952332Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDsabrinaObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDmapObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595magicObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_9595bonusObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDspawn3Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpjette0Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDlimites2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveauObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDporteObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDpassage_9595niveau_95952Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseurObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDascenseur2Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDedouardObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDbravoObjects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDvisiteur1Objects3.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects1.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects2.length = 0;
+gdjs.etage_322_32expoblanc_32bonus_32visiteursCode.GDicon_9595mapObjects3.length = 0;
 
 
 return;
 
 }
 
-gdjs['etage_322_32expoblanc_32bonus_32rangerCode'] = gdjs.etage_322_32expoblanc_32bonus_32rangerCode;
+gdjs['etage_322_32expoblanc_32bonus_32visiteursCode'] = gdjs.etage_322_32expoblanc_32bonus_32visiteursCode;
