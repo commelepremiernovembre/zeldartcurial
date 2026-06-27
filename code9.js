@@ -520,7 +520,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDheamsObjects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33633660);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44060612);
 }
 }
 if (isConditionTrue_0) {
@@ -563,7 +563,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode1Objects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33635564);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44062540);
 }
 }
 if (isConditionTrue_0) {
@@ -606,7 +606,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDcommode2Objects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33636812);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44064164);
 }
 }
 if (isConditionTrue_0) {
@@ -649,7 +649,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDjean_95959595prouv_959595233Objects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33638540);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44065580);
 }
 }
 if (isConditionTrue_0) {
@@ -692,7 +692,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbureauObjects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33640108);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44067148);
 }
 }
 if (isConditionTrue_0) {
@@ -735,7 +735,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDlampeObjects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33641852);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44068940);
 }
 }
 if (isConditionTrue_0) {
@@ -778,7 +778,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDgiacomettiObjects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33643620);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44070556);
 }
 }
 if (isConditionTrue_0) {
@@ -821,7 +821,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.object.distanceTest(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpaire_95959595de_95959595chaise_95959595Objects2Objects, 70, false);
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33644612);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44072484);
 }
 }
 if (isConditionTrue_0) {
@@ -916,13 +916,13 @@ if (isConditionTrue_0) {
 
 };gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDascenseurObjects2Objects = Hashtable.newFrom({"ascenseur": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDascenseurObjects2});
-gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876 = function (runtimeScene, asyncObjectsList) {
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44080044 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
 {gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "etage 2 boiserie", false);
 }
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables.length = 0;
 }
-gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(33651876, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(44080044, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44080044);
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList6 = function(runtimeScene) {
 
 {
@@ -932,7 +932,7 @@ gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList6 = function
 {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33651876(runtimeScene, asyncObjectsList)), 33651876, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44080044(runtimeScene, asyncObjectsList)), 44080044, asyncObjectsList);
 }
 }
 
@@ -1018,7 +1018,7 @@ gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDpjette0Objects2Objects = Hashtable.newFrom({"pjette0": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDpjette0Objects2});
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDedouardObjects2Objects = Hashtable.newFrom({"edouard": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2});
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.mapOfGDgdjs_9546etage_9595322_959532expoblanc_959595cachee_959545sensualitarismeCode_9546GDbonjour_95959595je_95959595m_95959595appelle_95959595EdouardObjects3Objects = Hashtable.newFrom({"bonjour_je_m_appelle_Edouard": gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m_9595appelle_9595EdouardObjects3});
-gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548 = function (runtimeScene, asyncObjectsList) {
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44083108 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("edouard"), gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects3);
 
@@ -1028,7 +1028,7 @@ gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDbonjour_9595je_9595m
 }
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables.length = 0;
 }
-gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(33655548, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548);
+gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.idToCallbackMap.set(44083108, gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44083108);
 gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList8 = function(runtimeScene) {
 
 {
@@ -1039,7 +1039,7 @@ gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.eventsList8 = function
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.localVariables);
 for (const obj of gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.GDedouardObjects2) asyncObjectsList.addObject("edouard", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback33655548(runtimeScene, asyncObjectsList)), 33655548, asyncObjectsList);
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(0.3), (runtimeScene) => (gdjs.etage_322_32expoblanc_95cachee_45sensualitarismeCode.asyncCallback44083108(runtimeScene, asyncObjectsList)), 44083108, asyncObjectsList);
 }
 }
 
@@ -1129,7 +1129,7 @@ isConditionTrue_0 = false;
 isConditionTrue_0 = gdjs.evtTools.input.isKeyPressed(runtimeScene, "Space");
 if (isConditionTrue_0) {
 isConditionTrue_0 = false;
-{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(33656508);
+{isConditionTrue_0 = runtimeScene.getOnceTriggers().triggerOnce(44084124);
 }
 }
 }

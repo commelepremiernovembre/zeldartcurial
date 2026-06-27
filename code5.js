@@ -219,19 +219,19 @@ let isConditionTrue_0 = false;
 gdjs.copyArray(runtimeScene.getObjects("pjette0"), gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1);
 {gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1[0] : null), true, "player", 0);
 }
-{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -(701), 1179, 702, "player", 0);
+{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -701, 1179, 702, "player", 0);
 }
 {gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1[0] : null), true, "la map ", 0);
 }
-{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -(701), 1179, 702, "la map ", 0);
+{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -701, 1179, 702, "la map ", 0);
 }
 {gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1[0] : null), true, "limite invicible", 0);
 }
-{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -(701), 1179, 702, "limite invicible", 0);
+{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -701, 1179, 702, "limite invicible", 0);
 }
 {gdjs.evtTools.camera.centerCamera(runtimeScene, (gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1.length !== 0 ? gdjs.Salles_32du_32rez_45de_45chauss_233e_32_45_32H_244tel_32Marcel_32DassaultCode.GDpjette0Objects1[0] : null), true, "typo", 0);
 }
-{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -(701), 1179, 702, "typo", 0);
+{gdjs.evtTools.camera.clampCamera(runtimeScene, 165, -701, 1179, 702, "typo", 0);
 }
 }
 
